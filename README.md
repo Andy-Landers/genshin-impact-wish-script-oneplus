@@ -1,5 +1,5 @@
-# **一加/OPPO游戏中心原神抽卡分析器脚本**
-## A script for Genshin Impact wish analyzer of OnePlus Game Center App
+# **一加/OPPO游戏中心原神抽卡记录获取脚本**
+## A script for Genshin Impact wish history access of OnePlus Game Center App Genshin Impact Wish Analyzer
 
 ## 目录
 
