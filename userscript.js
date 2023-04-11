@@ -1,13 +1,14 @@
 // ==UserScript== 
-// @name 原神抽卡链接获取 
-// @namespace Z2Vuc2hpbi1nYWNoYS11cmw= 
-// @version 0.2 
+// @name        原神抽卡链接获取 
+// @namespace   Z2Vuc2hpbi1nYWNoYS11cmw= 
+// @version     0.2 
 // @description try to take over the world! 
-// @author You 
-// @run-at document-start 
-// @match https://user.mihoyo.com/* 
-// @grant none 
+// @author      You 
+// @run-at      document-start 
+// @match       https://user.mihoyo.com/* 
+// @grant       none 
 // ==/UserScript== 
+
 (function () { 
     'use strict'; 
     function getDs() {
